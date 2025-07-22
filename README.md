@@ -1,5 +1,6 @@
 # wid
-https://wid-n6m9-joy-akpans-projects.vercel.app/
+
+Live Link: https://wid-landing-page.vercel.app/
 
 Group A WID Landing Page
 This repository contains the code for the Group A WID Landing Page, an assignment showcasing our learning journey with WID. Our goal is to demonstrate our curiosity in learning and our passion for solving user problems through clean and scalable web development.
@@ -13,6 +14,8 @@ Responsive Design: Optimized for seamless viewing across various devices (deskto
 Hero Section: An engaging introduction to Group A WID and our mission.
 
 About Us Section: Details our core principles as professionals, fast builders, and providers of scalable solutions.
+
+Event Section: Pictures of past WID Events
 
 How It Works Section: Explains our collaborative process and the technologies used in building this project.
 
